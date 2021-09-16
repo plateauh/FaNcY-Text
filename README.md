@@ -5,11 +5,11 @@
 This project is an assignment that is required by Coding Dojo - Prebootcamp activities
 
 -------------------------------------------------------------------------------
-"Create an application with an Edit Text and a Button to get user input
-Use a hint to ask the user to enter a phrase
-Save the user input to a String variable
-Use a loop to display the same phrase with uppercase even letters and lowercase odd letters
-Print the result to the console
+"Create an application with an Edit Text and a Button to get user input.
+Use a hint to ask the user to enter a phrase.
+Save the user input to a String variable.
+Use a loop to display the same phrase with uppercase even letters and lowercase odd letters.
+Print the result to the console.
 
 Example:
 If the user enters "Hi, this is my first program."
